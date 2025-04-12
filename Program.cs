@@ -17,7 +17,7 @@ else{
     fatorial = fatorial * i;
     }
     Console.WriteLine($"Fatorial de {n} é igual a {fatorial}");
-    }
+}
 
     
 
